@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jayantkh12/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Jayantkh12/Leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Jayantkh12/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Jayantkh12/Leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Jayantkh12/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -177,5 +180,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Jayantkh12/Leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Jayantkh12/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
