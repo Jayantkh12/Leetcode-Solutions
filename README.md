@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -180,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Jayantkh12/Leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
