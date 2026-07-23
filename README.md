@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Jayantkh12/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Jayantkh12/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jayantkh12/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jayantkh12/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -128,13 +129,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Jayantkh12/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jayantkh12/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Jayantkh12/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jayantkh12/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Jayantkh12/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jayantkh12/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
