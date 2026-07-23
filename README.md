@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Jayantkh12/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jayantkh12/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Jayantkh12/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jayantkh12/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Jayantkh12/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jayantkh12/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Jayantkh12/Leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jayantkh12/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Jayantkh12/Leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Jayantkh12/Leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jayantkh12/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Jayantkh12/Leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
@@ -183,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jayantkh12/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Jayantkh12/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -197,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Jayantkh12/Leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jayantkh12/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Jayantkh12/Leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
