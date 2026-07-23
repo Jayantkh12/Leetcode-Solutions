@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Jayantkh12/Leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0951-flip-equivalent-binary-trees](https://github.com/Jayantkh12/Leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Jayantkh12/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Depth-First Search
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Jayantkh12/Leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0951-flip-equivalent-binary-trees](https://github.com/Jayantkh12/Leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Jayantkh12/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Breadth-First Search
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Jayantkh12/Leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0951-flip-equivalent-binary-trees](https://github.com/Jayantkh12/Leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Jayantkh12/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## String Matching
