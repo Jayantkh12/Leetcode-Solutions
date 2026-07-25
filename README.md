@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/Jayantkh12/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Jayantkh12/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Jayantkh12/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Jayantkh12/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/Jayantkh12/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Jayantkh12/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Jayantkh12/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Jayantkh12/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/Jayantkh12/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Jayantkh12/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Jayantkh12/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Jayantkh12/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -256,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Jayantkh12/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
