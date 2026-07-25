@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0951-flip-equivalent-binary-trees](https://github.com/Jayantkh12/Leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jayantkh12/Leetcode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Jayantkh12/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jayantkh12/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Jayantkh12/Leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jayantkh12/Leetcode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Jayantkh12/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0951-flip-equivalent-binary-trees](https://github.com/Jayantkh12/Leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jayantkh12/Leetcode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Jayantkh12/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
