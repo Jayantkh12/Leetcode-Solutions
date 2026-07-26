@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0687-longest-univalue-path](https://github.com/Jayantkh12/Leetcode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jayantkh12/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/Jayantkh12/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Jayantkh12/Leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0687-longest-univalue-path](https://github.com/Jayantkh12/Leetcode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jayantkh12/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/Jayantkh12/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Jayantkh12/Leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jayantkh12/Leetcode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0687-longest-univalue-path](https://github.com/Jayantkh12/Leetcode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jayantkh12/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/Jayantkh12/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Jayantkh12/Leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -304,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jayantkh12/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Jayantkh12/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Jayantkh12/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
