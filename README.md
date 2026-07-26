@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Jayantkh12/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Jayantkh12/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Jayantkh12/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Jayantkh12/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayantkh12/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Jayantkh12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Jayantkh12/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Jayantkh12/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Jayantkh12/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Jayantkh12/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayantkh12/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Jayantkh12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Jayantkh12/Leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Jayantkh12/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Jayantkh12/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Jayantkh12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Jayantkh12/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Jayantkh12/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Jayantkh12/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Jayantkh12/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayantkh12/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Jayantkh12/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -305,4 +309,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/Jayantkh12/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Jayantkh12/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Jayantkh12/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 <!---LeetCode Topics End-->
