@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Jayantkh12/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Jayantkh12/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Jayantkh12/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jayantkh12/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/Jayantkh12/Leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jayantkh12/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2187-minimum-time-to-complete-trips](https://github.com/Jayantkh12/Leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayantkh12/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Jayantkh12/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Jayantkh12/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jayantkh12/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Jayantkh12/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -322,4 +324,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Jayantkh12/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Jayantkh12/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jayantkh12/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
