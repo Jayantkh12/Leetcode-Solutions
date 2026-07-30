@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jayantkh12/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jayantkh12/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jayantkh12/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Jayantkh12/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jayantkh12/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jayantkh12/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Bit Manipulation
