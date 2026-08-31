@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Jayantkh12/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Jayantkh12/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
