@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jayantkh12/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Jayantkh12/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Jayantkh12/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Jayantkh12/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jayantkh12/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Jayantkh12/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jayantkh12/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jayantkh12/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Jayantkh12/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Jayantkh12/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Jayantkh12/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Jayantkh12/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Heap (Priority Queue)
 |  |
@@ -401,4 +404,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Jayantkh12/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
