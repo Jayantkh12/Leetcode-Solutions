@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Jayantkh12/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Jayantkh12/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Jayantkh12/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Jayantkh12/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Jayantkh12/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayantkh12/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Jayantkh12/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Jayantkh12/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jayantkh12/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Jayantkh12/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Jayantkh12/Leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Jayantkh12/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jayantkh12/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Jayantkh12/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayantkh12/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Jayantkh12/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Jayantkh12/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
