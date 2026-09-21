@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2187-minimum-time-to-complete-trips](https://github.com/Jayantkh12/Leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Jayantkh12/Leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jayantkh12/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3731-find-missing-elements](https://github.com/Jayantkh12/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jayantkh12/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jayantkh12/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jayantkh12/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jayantkh12/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jayantkh12/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jayantkh12/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Jayantkh12/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Backtracking
 |  |
 | ------- |
