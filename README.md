@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Jayantkh12/Leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jayantkh12/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3731-find-missing-elements](https://github.com/Jayantkh12/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jayantkh12/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jayantkh12/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jayantkh12/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jayantkh12/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jayantkh12/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -450,4 +452,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
