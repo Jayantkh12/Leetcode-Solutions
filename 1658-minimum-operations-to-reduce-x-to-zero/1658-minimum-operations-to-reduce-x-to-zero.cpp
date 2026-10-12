@@ -1,30 +1,40 @@
+
 class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
-        long long sum=0;
-        for(int i=0;i<nums.size();i++){
-            sum+=nums[i];
+        int n = nums.size();
+        int l = 0;
+        int r = 0;
+        int total = 0;
+
+        for (int num : nums) {
+            total += num;
         }
-        long long target=sum-x;
-        if(target<0){
-            return -1;
-        }
-        int left=0;
-        int maxLen=-1;
-        long long sumFind=0;
-        for(int right=0;right<nums.size();right++){
-            sumFind+=nums[right];
-            while(sumFind>target){
-                sumFind-=nums[left];
-                left++;
+
+        int target = total - x;
+
+        if (target < 0) return -1;
+
+        int sum = 0;
+        int longest = -1;
+
+        while (r < n) {
+            sum += nums[r];
+
+            while (sum > target && l <= r) {
+                sum -= nums[l];
+                l++;
             }
-            if(sumFind==target){
-                maxLen=max(maxLen,right-left+1);
+
+            if (sum == target) {
+                longest = max(longest, r - l + 1);
             }
+
+            r++;
         }
-        if(maxLen>=0){
-            return nums.size()-maxLen;
-        }
-        return -1;
+
+        if (longest == -1) return -1;
+
+        return n - longest;
     }
 };
