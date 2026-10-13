@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Jayantkh12/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Jayantkh12/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Jayantkh12/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1306-jump-game-iii](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Jayantkh12/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/Jayantkh12/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jayantkh12/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jayantkh12/Leetcode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Jayantkh12/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1306-jump-game-iii](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Jayantkh12/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0965-univalued-binary-tree](https://github.com/Jayantkh12/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jayantkh12/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Jayantkh12/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1306-jump-game-iii](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [3310-remove-methods-from-project](https://github.com/Jayantkh12/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 |  |
