@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1401-circle-and-rectangle-overlapping](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Jayantkh12/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1927-sum-game](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jayantkh12/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jayantkh12/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jayantkh12/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Jayantkh12/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Jayantkh12/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1927-sum-game](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jayantkh12/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1927-sum-game](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -459,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Jayantkh12/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Jayantkh12/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Jayantkh12/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [1927-sum-game](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
