@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2187-minimum-time-to-complete-trips](https://github.com/Jayantkh12/Leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Jayantkh12/Leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jayantkh12/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Jayantkh12/Leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Jayantkh12/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jayantkh12/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jayantkh12/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Rolling Hash
 |  |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jayantkh12/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Jayantkh12/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
